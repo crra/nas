@@ -4,7 +4,7 @@ _nas_ is a (not so) simple bash script for controlling your NAS (network attache
 
 It's currently tested with a linux-based NAS from Synology on a macOS host (Big Sur).
 
-It's developed for bash version <4 (e.g. shipped with Big Sur) and contains some quirks that are needed for such an old bash version (bash, version 3.2.57(1)-release is from 2007).
+It's developed for bash version <4 (e.g. shipped with Big Sur) and contains some quirks that are needed for such an old bash version (bash, version 3.2.57(1)-release is from 2007). It also works without changes on Monterey (12.1, 21C52).
 
 ## 💡 Note from the author
 
